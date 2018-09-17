@@ -1,0 +1,8 @@
+lambda data: data[0] < 2,
+lambda data: data[0] < 4,
+lambda data: data[0] < 6,
+lambda data: data[0] > 2,
+lambda data: data[0] > 4,
+lambda data: data[0] > 6,
+lambda data: data[1] < 4,
+lambda data: data[1] > 2
